@@ -114,17 +114,9 @@ public:
 
 ---
 
-# ⚡ Fun Fact
-
-Debugging is like being a detective 🕵️‍♂️
-but **you are also the criminal** 😄
-
----
-
 # 📫 Connect With Me
 
-🔗 GitHub
-https://github.com/ahmedmfh164-hash
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedmfh164-hash&color=blue&style=for-the-badge)
 
 💼 LinkedIn
-https://www.linkedin.com/in/ahmed-mohamed-7b1642395
+![Profile Views](https://www.linkedin.com/in/ahmed-mohamed-7b1642395&color=قثي&style=for-the-badge)
