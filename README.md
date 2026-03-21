@@ -35,14 +35,9 @@ Hi 👋 I'm **Ahmed Mohamed**
 ---
 
 # 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedmfh164-hash&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedmfh164-hash&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
-
----
 
 # 📊 GitHub Statistics
 
