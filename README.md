@@ -1,67 +1,52 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ahmed+Mohamed;C%2B%2B+Developer;Learning+C%23+and+.NET;Future+Backend+Developer;Welcome+to+my+GitHub+Profile" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Learning+C%23+and+.NET;Future+Backend+Developer;Welcome+to+my+GitHub+Profile" />
 
 </div>
 
 ---
 
-# 👨‍💻 Ahmed Mohamed
+# 👨‍💻 About Me
 
-💻 **Web Developer**
-⚙️ **C++ Developer**
+Hi 👋 I'm **Ahmed Mohamed**
+
+💻 Web Developer
+⚙️ Strong experience with **C++**
 🌱 Currently learning **C# and .NET Framework**
-🧠 Strong understanding of **Object-Oriented Programming (OOP)**
-
-I love solving problems, building software, and continuously improving my programming skills.
+🧠 Passionate about **Object-Oriented Programming (OOP)**
+🚀 Interested in **Backend Development**
 
 ---
 
 # 🚀 Tech Stack
 
-### Programming Languages
+<p align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=c-sharp\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,github,visualstudio" />
 
-### Frameworks
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat\&logo=dotnet\&logoColor=white)
-
-### Concepts
-
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-blue)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat\&logo=github\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat\&logo=visualstudio\&logoColor=white)
-
----
-
-# 📚 Currently Learning
-
-* C#
-* .NET Framework
-* ASP.NET
-* Backend Development
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedmfh164-hash&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedmfh164-hash&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</div>
+</p>
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmedmfh164-hash&show_icons=true&theme=tokyonight"/>
 
@@ -69,11 +54,11 @@ I love solving problems, building software, and continuously improving my progra
 
 <img src="https://streak-stats.demolab.com?user=ahmedmfh164-hash&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmfh164-hash&theme=tokyo-night"/>
 
@@ -92,15 +77,10 @@ public:
         "C#"
     };
 
-    vector<string> concepts = {
-        "OOP",
-        "Problem Solving"
-    };
-
-    vector<string> tools = {
-        "Git",
-        "GitHub",
-        "Visual Studio"
+    vector<string> interests = {
+        "Backend Development",
+        "Problem Solving",
+        "OOP"
     };
 
 };
@@ -108,15 +88,32 @@ public:
 
 ---
 
-# 🐍 Contribution Snake
+# 🌐 Connect With Me
 
-![snake gif](https://github.com/ahmedmfh164-hash/ahmedmfh164-hash/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<a href="https://github.com/ahmedmfh164-hash">
+<img src="https://img.shields.io/badge/GitHub-ahmedmfh164--hash-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-mohamed-7b1642395">
+<img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 📫 Connect With Me
+<p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedmfh164-hash&color=blue&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=ahmedmfh164-hash&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-💼 LinkedIn
-![Profile Views](https://www.linkedin.com/in/ahmed-mohamed-7b1642395&color=قثي&style=for-the-badge)
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>
