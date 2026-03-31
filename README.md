@@ -32,7 +32,7 @@ Hi 👋 I'm **Ahmed Mohamed**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,github,visualstudio,visualstudiocode" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,github,visualstudio,visualstudioCode" />
 
 </p>
 
