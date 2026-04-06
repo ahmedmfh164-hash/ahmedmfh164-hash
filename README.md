@@ -30,9 +30,18 @@ Hi 👋 I'm **Ahmed Mohamed**
 
 # 🚀 Tech Stack
 
+## ¶ Languages & Frameworks
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" />
+
+</p>
+
+## ¶ Tools 
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 
 </p>
 
