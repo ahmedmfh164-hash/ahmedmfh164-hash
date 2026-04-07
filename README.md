@@ -33,8 +33,7 @@ Hi 👋 I'm **Ahmed Mohamed**
 ## ¶ Languages & Frameworks
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" />
-
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,mysql" />
 </p>
 
 ## ¶  Tools & Environments
