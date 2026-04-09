@@ -20,7 +20,7 @@ Hi 👋 I'm **Ahmed Mohamed**
 
 ⚙️ Strong experience with **C++**  
 
-🌱 Currently learning **C# and .NET Framework**  
+🌱 Currently learning **C# and .NET Framework and DataBase**  
 
 🧠 Passionate about **Object-Oriented Programming (OOP)**  
 
