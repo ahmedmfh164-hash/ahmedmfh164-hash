@@ -33,7 +33,8 @@ Hi 👋 I'm **Ahmed Mohamed**
 ## ¶ Languages & Frameworks
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="45"/>
 </p>
 
 ## ¶  Tools & Environments
