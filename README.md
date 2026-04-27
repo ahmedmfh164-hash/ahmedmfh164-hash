@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+Mohamed;Backend+Developer;.NET+Developer;Problem+Solver" />
 </p>
 
-##👋 Hi, I'm Ahmed Mohamed
+## 👋 Hi, I'm Ahmed Mohamed
 
 ## 💻 Backend Developer | .NET Developer 
 
@@ -20,13 +20,22 @@
 
 ---
 
+
 # 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,sqlserver,git,github,visualstudio" />
-</p><p align="center">
+# 💻 Languages
+## ¶ Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" />
   <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  
+# 🗄️ Databases
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="45"/>
+
+# ⚙️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
+
 
 # 📂 Featured Projects
 
@@ -78,10 +87,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  </a>&nbsp;
   <a href="mailto:ahmed164@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  </a> &nbsp;
      <a href="https://ahmedmfh164-hash">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
@@ -92,4 +101,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmedmfh164-hash/ahmedmfh164-hash/output/github-contribution-grid-snake.svg" />
 </p>
-
