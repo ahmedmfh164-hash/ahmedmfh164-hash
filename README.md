@@ -1,127 +1,95 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Learning+C%23+and+.NET;Future+Backend+Developer;Welcome+to+my+GitHub+Profile" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-Hi 👋 I'm **Ahmed Mohamed**
-
-💻 Web Developer  
-
-⚙️ Strong experience with **C++**  
-
-🌱 Currently learning **C# and .NET Framework and DataBase**  
-
-🧠 Passionate about **Object-Oriented Programming (OOP)**  
-
-🚀 Interested in **Backend Development**
-
----
-
-# 🚀 Tech Stack
-
-## ¶ Languages & Frameworks
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="45"/>
+<!-- 🔥 GIF Header --><p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" hight="60%" width="80%" />
+</p><!-- ✨ Typing Animation --><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+Mohamed;Backend+Developer;.NET+Developer;Problem+Solver" />
 </p>
 
-## ¶  Tools & Environments
+##👋 Hi, I'm Ahmed Mohamed
+
+## 💻 Backend Developer | .NET Developer 
+
+---
+
+#🚀 About Me
+
+## - 🎓 Computer Science Student
+## - 💡 Building real-world systems using .NET & SQL Server
+## - 🧠 Strong in OOP, ADO.NET & Database Design
+## - ⚡ Passionate about backend development & clean architecture
+## - 🎯 Goal: Become a Professional Backend Engineer
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,sqlserver,git,github,visualstudio" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
+
+# 📂 Featured Projects
+
+### 🏦 Bank Management System
+
+### 🔹 Full banking system using OOP
+
+## ✨ Features:
+
+### - Account Management
+### - Deposit & Withdraw
+### - Transactions
+### - Console Interface
+
+
+# 🛠️ Tech:
+## "C++" | "OOP"
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedmfh164-hash&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmfh164-hash&show_icons=true&theme=tokyonight&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmfh164-hash&theme=tokyonight" />
 </p>
 
-# 📊 GitHub Statistics
+# 📈 Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedmfh164-hash&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmfh164-hash&layout=compact&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=ahmedmfh164-hash&theme=tokyonight"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmfh164-hash&theme=tokyo-night" />
 </p>
 
----
+# 🏆 Achievements
 
-# 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedmfh164-hash&theme=tokyonight&no-frame=true&row=1" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmfh164-hash&theme=tokyo-night"/>
+# 👀 Profile Views
 
----
-
-# 🧠 Code Philosophy
-
-```cpp
-class Ahmed {
-public:
-
-    string role = "Developer";
-
-    vector<string> languages = {
-        "C++",
-        "C#"
-    };
-
-    vector<string> interests = {
-        "Backend Development",
-        "Problem Solving",
-        "OOP"
-    };
-
-};
-```
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedmfh164-hash&label=Profile%70Views&color=blue&style=flat" />
+</p>
 
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/ahmedmfh164-hash">
-<img src="https://img.shields.io/badge/GitHub-ahmedmfh164--hash-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ahmed-mohamed-7b1642395">
-<img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ahmed164@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+     <a href="https://ahmedmfh164-hash">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
----
+# 🐍 Snake Animation
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ahmedmfh164-hash&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/>
-
+  <img src="https://raw.githubusercontent.com/ahmedmfh164-hash/ahmedmfh164-hash/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-</div>
