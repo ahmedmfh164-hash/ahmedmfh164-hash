@@ -1,5 +1,5 @@
 <!-- 🔥 GIF Header --><p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" hight="60%" width="80%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" hight="1%" width="80%" />
 </p><!-- ✨ Typing Animation --><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+Mohamed;Backend+Developer;.NET+Developer;Problem+Solver" />
 </p>
