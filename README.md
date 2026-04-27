@@ -10,7 +10,7 @@
 
 ---
 
-#🚀 About Me
+# 🚀 About Me
 
 ## - 🎓 Computer Science Student
 ## - 💡 Building real-world systems using .NET & SQL Server
