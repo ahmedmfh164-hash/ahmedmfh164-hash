@@ -38,17 +38,30 @@
 
 
 # 📂 Featured Projects
+----
+## DVLD --- Driving & Vehicle License Management System  GitHub 
+## ✨Description: 
+### 🔹Desktop management system designed to manage people, drivers, licenses, users, and driving tests using a database-driven architecture. 
+## ✨Features :
+### - Implemented Authentication and Authorization system. 
+### - Developed Validation Logic for secure data entry. 
+### - Built CRUD operations for managing records. 
+### - Connected SQL Server database using ADO.NET. 
+### - Applied Multi-Tier / Layered Architecture principles. 
+### - Designed a scalable and organized desktop application structure. 
+## 🛠️Technologies:
+### C#, WinForms, SQL Server, ADO.NET. 
+----
+## 🏦 Bank Management System
 
-### 🏦 Bank Management System
-
-### 🔹 Full banking system using OOP
+## 🔹 Full banking system using OOP
 
 ## ✨ Features:
 
-### - Account Management
-### - Deposit & Withdraw
-### - Transactions
-### - Console Interface
+## - Account Management
+## - Deposit & Withdraw
+## - Transactions
+## - Console Interface
 
 
 # 🛠️ Tech:
