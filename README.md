@@ -34,6 +34,7 @@
 
 # ⚙️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 
