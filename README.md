@@ -254,23 +254,6 @@ A console-based banking system developed to practice **Object-Oriented Programmi
 
 ---
 
-# 📖 Currently Learning
-
-I'm continuously improving my backend development skills and expanding my knowledge in:
-
-* Advanced C#
-* .NET
-* ASP.NET Core
-* REST APIs
-* LINQ
-* Backend Architecture
-* Clean Code
-* Database Optimization
-* Software Design Patterns
-* API Development
-
----
-
 # 🎯 Career Goal
 
 My goal is to become a **Professional Backend Engineer** capable of designing, developing and maintaining scalable backend systems using modern **C# and .NET technologies**.
