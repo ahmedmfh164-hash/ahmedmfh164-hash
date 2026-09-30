@@ -98,6 +98,51 @@
 # 📂 Featured Projects
 
 ---
+🚀 Nova ERP System
+
+Nova ERP System is a backend-focused Enterprise Resource Planning (ERP) system built with ASP.NET Core Web API and designed using a clean, layered architecture.
+
+The system manages core business operations including Sales, Inventory, Products, Users, Roles & Permissions, Customers, Suppliers, Invoices, Stock Movements, and Audit Logs.
+---
+✨ Key Features
+- 🌐 RESTful APIs for ERP business operations
+- 🔐 Authentication & Authorization using JWT
+- 🛡️ Role-Based Access Control (RBAC) and permission-based authorization
+- 🔒 Secure API Practices including CORS, HTTPS, rate limiting, auditing, and secure secret management
+- 🗄️ SQL Server Database with Stored Procedures
+- 🏗️ Layered Architecture separating API, Business, Repository, Data Access, and Domain responsibilities
+- 📦 Inventory Management and stock movement tracking
+- 📄 Pagination, Filtering & Validation
+- ⚠️ Centralized Error Handling
+- 🖼️ File & Image Management
+- 📋 Audit Logging for tracking system activities
+---
+🛠️ Technologies
+- 💻 C#
+- ⚡ ASP.NET Core Web API
+- 🗄️ SQL Server
+- 🔧 T-SQL
+- 🔌 ADO.NET
+- 🔑 JWT Authentication
+- 🌐 REST APIs
+- ⚙️ Stored Procedures
+- 📘 Swagger / OpenAPI
+---
+🏛️ Architecture
+
+The project follows a Layered Architecture to maintain separation of concerns, scalability, and maintainability.
+
+API → Business → Repository → Data Access → Database
+
+with a dedicated Domain layer for the core business entities.
+
+### 🔗 Repository
+
+<a href="https://github.com/ahmedmfh164-hash/Nova-ERP-System.git">
+  View My GitHub
+</a>
+
+---
 
 ## 🚗 DVLD — Driving & Vehicle License Management System
 
