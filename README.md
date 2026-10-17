@@ -63,7 +63,8 @@
   <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Repository_Pattern-1E1E1E?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+ 
+  <img src="https://img.shields.io/badge/Post Man-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /><img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
