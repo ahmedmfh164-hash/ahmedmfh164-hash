@@ -99,7 +99,7 @@
 # 📂 Featured Projects
 
 ---
-🚀 Nova ERP System
+# 🚀 Nova ERP System
 
 Nova ERP System is a backend-focused Enterprise Resource Planning (ERP) system built with ASP.NET Core Web API and designed using a clean, layered architecture.
 
