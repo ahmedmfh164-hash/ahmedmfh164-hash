@@ -281,6 +281,7 @@ A console-based banking system developed to practice **Object-Oriented Programmi
 
 * Layered Architecture
 * Multi-Tier Architecture
+* Clean Architecture
 * Separation of Concerns
 * Data Access Layer
 * Business Logic Layer
